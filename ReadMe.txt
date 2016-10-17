@@ -1,0 +1,1 @@
+Example of a custom transformer to transform input text into lemmatized tokens using Stanford NLP module.
